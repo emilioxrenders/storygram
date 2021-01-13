@@ -1,0 +1,13 @@
+.bi {
+    font-size: 8vw;
+    color: #101010;
+}
+
+.row {
+    width: 100%;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+}
