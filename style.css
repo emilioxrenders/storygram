@@ -1,13 +1,33 @@
+body{
+    padding-bottom:8vh;
+}
+
+/* NAV */
 .bi {
-    font-size: 8vw;
+    font-size: 7vw;
     color: #101010;
 }
-
-.row {
+.navrow {
     width: 100%;
 }
-
 .navbar-nav {
     width: 100%;
     text-align: center;
+}
+
+/* HEADER */
+.headertxt{
+    text-align: center;
+    font-weight:normal;
+    font-size: 8vw;
+    padding:0.8vh;
+}
+.headerwrap{
+    margin-bottom:1.5rem;
+}
+
+/* CONTENT */
+.indexpic{
+    height:45vh;
+    width:100%;
 }
