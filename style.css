@@ -1,36 +1,54 @@
-body{
-    padding-bottom:8vh;
+body {
+    padding-bottom: 8vh;
 }
 
 /* NAV */
+
 .bi {
     font-size: 7vw;
     color: #101010;
 }
+
 .navrow {
     width: 100%;
 }
+
 .navbar-nav {
     width: 100%;
     text-align: center;
 }
 
 /* HEADER */
-.headertxt{
+
+.headertxt {
     text-align: center;
-    font-weight:normal;
+    font-weight: normal;
     font-size: 8vw;
-    padding:0.8vh;
+    padding: 0.8vh;
 }
-.headerwrap{
-    margin-bottom:1.5rem;
+
+.headerwrap {
+    margin-bottom: 1.5rem;
 }
 
 /* CONTENT */
-.indexpic{
-    height:45vh;
-    width:100%;
+
+.indexpic {
+    height: 45vh;
+    width: 100%;
 }
-.indexsubtxt{
-    padding-top: 0.1vh;
+
+.indexsubtxt {
+    padding-top: 0.2vh;
+    font-size:3.2vw;
+}
+
+.infotxt {
+    text-align: center;
+    font-weight: normal;
+    font-size: 6vw;
+}
+
+.infotxtwrap {
+    pointer-events: none;
 }
