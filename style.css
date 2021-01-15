@@ -46,7 +46,11 @@ body {
 .infotxt {
     text-align: center;
     font-weight: normal;
-    font-size: 6vw;
+    font-size: 6.4vw;
+}
+
+.infosubtxt{
+    font-size:4vw;
 }
 
 .infotxtwrap {
