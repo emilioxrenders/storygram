@@ -1,0 +1,27 @@
+{
+    "name": "Storygram",
+    "short_name": "Storygram",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "black",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/pictures/icon_72-72.png",
+            "type": "img/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/pictures/icon_192-192.png",
+            "type": "img/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/pictures/icon_512-512.png",
+            "type": "img/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        }
+    ]
+}
